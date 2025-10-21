@@ -113,7 +113,7 @@ section{
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url('../src/BG4.JPG') no-repeat;
+    background: url('../src/BG4.jpg') no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -610,7 +610,7 @@ span {
 
 /* Position cube faces */
 .front  { transform: rotateY(  0deg) translateZ(150px); background-image: url('../src/P2.png'); }
-.right  { transform: rotateY( 90deg) translateZ(150px); background-image: url('../src/p1.png'); }
+.right  { transform: rotateY( 90deg) translateZ(150px); background-image: url('../src/P1.png'); }
 .back   { transform: rotateY(180deg) translateZ(150px); background-image: url('../src/project3.jpg'); }
 .left   { transform: rotateY(-90deg) translateZ(150px); background-image: url('../src/project4.jpg'); }
 
